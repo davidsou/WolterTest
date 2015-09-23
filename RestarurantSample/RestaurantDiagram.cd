@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RestarurantSample.Component" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAABAAAAAAAAABAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestarurantSample.Dish">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAQAgAAAAAAAABAQAAQAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Dish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestarurantSample.Option">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Option.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestarurantSample.Order">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAAAAAAAAAAAAABAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestarurantSample.Table">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAQAAAAEAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Entities\Table.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestarurantSample.Rules.Command">
+    <Position X="2" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rules\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestarurantSample.Rules.Kitchen">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Rules\Kitchen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestarurantSample.Rules.OrderCommand">
+    <Position X="2" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Rules\OrderCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestarurantSample.Rules.Waiter">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAhAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rules\Waiter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
